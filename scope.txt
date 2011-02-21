@@ -1,0 +1,10 @@
+Python
+- data types (number, string, boolean)
+- conditional statement
+- loops (for, while)
+- functions
+- recursion
+- data structures (array, list, dictionary)
+- date
+- validation (regular expression)
+- file input/output
